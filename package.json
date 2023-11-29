@@ -1,0 +1,21 @@
+{
+  "name": "gbyz_util_pack", 
+  "version": "1.0.0", 
+  "author": "xxx", 
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrXiangXvFan/gbyz_util_pack.git"
+  },
+  "license": "ISC", 
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    
+  }
+}
